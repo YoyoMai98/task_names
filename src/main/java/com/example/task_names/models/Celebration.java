@@ -1,14 +1,14 @@
 package com.example.task_names.models;
 
-public class Celebation {
+public class Celebration {
 
     private String message;
 
-    public Celebation (String message){
+    public Celebration (String message){
         this.message = message;
     }
 
-    public Celebation (){}
+    public Celebration (){}
 
     public String getMessage() {
         return message;
